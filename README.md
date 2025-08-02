@@ -3,15 +3,15 @@ This repository is a curated collection of minor projects developed using Python
 
 The repository covers a variety of topics including:
 
-Data Structures & Algorithms: Implementations of common algorithms, problem-solving challenges, and optimized solutions.
+.Data Structures & Algorithms: Implementations of common algorithms, problem-solving challenges, and optimized solutions.
 
-File Handling & Automation: Scripts to simplify repetitive tasks and demonstrate how Python can automate everyday processes.
+.File Handling & Automation: Scripts to simplify repetitive tasks and demonstrate how Python can automate everyday processes.
 
-Math & Logic-Based Programs: Projects focused on calculations, number theory, and logical problem-solving.
+.Math & Logic-Based Programs: Projects focused on calculations, number theory, and logical problem-solving.
 
-Mini Applications: Small-scale tools and applications showcasing practical use-cases of Python.
+.Mini Applications: Small-scale tools and applications showcasing practical use-cases of Python.
 
-Each project is written with clean and modular code, making it easy to understand, modify, and extend. Well-commented scripts and simple folder organization ensure that beginners can follow along without difficulty.
+.Each project is written with clean and modular code, making it easy to understand, modify, and extend. Well-commented scripts and simple folder organization ensure that beginners can follow along without difficulty.
 
 This repository is ideal for:
 
