@@ -1,4 +1,4 @@
-#🐍 Python Minor Projects
+<h1>**🐍 Python Minor Projects**</h1>
 
 This repository is a curated collection of minor projects developed using Python, aimed at exploring different programming concepts, problem-solving approaches, and practical applications. Each project is designed to be small yet meaningful, making it a great resource for learners and developers who want to strengthen their coding skills or get inspiration for their own work.
 
