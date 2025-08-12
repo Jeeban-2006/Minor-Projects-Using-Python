@@ -1,14 +1,16 @@
+#It is a minor project using a library twilio of Python that helps to automate message to anyone . If you need any help then refer this video : https://youtu.be/z5RwpJn86-U?si=00RzL5k_QPYMfMwL
+
 from twilio.rest import Client
 from datetime import datetime
 import time
 
 # Twilio credentials
-account_sid = "ACc465f4f5d79373b43255fb92b6c46af4"
-auth_token = "de654f1c5db64b0011a38ddb0d3e6cc2"
+account_sid = "Paste here your Account Sid from twilio"   #create manually
+auth_token = "Paste here your Auth_token from twilio"     #create manually
 client = Client(account_sid, auth_token)
 
 # Your Twilio Sandbox WhatsApp number
-from_whatsapp_number = "whatsapp:+14155238886"
+from_whatsapp_number = "whatsapp:use the number that provided by twilio"  #create manually
 
 def send_whatsapp_message(recipient_number, message):
     try:
@@ -46,3 +48,4 @@ else:
     print(f"📅 Message will be sent to {name} at {send_time.strftime('%Y-%m-%d %H:%M')}.")
     time.sleep(delay_seconds)
     send_whatsapp_message(recipient_number, message)
+
